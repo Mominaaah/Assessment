@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Country Explorer
 
 A simple one-page React app that allows users to search for any country and view details like:
@@ -46,3 +47,6 @@ https://restcountries.com/
 - Loading state
 - Input validation
 - Responsive simple UI
+=======
+# Assessment
+>>>>>>> de11c55eab2a91ca7492255ee58f20ed7058723b
